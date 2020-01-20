@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.inner {
+  width: 75%
+}
+
+.nobr {
+  white-space: nowrap;
+  hyphens: none;
+}
