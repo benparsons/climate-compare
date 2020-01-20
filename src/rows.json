@@ -1,0 +1,170 @@
+[{"name":"Chiang Mai","data":[
+  {"temp": 21.5,"rain":4.2
+},{"temp": 23.9,"rain":8.9
+},{"temp": 27.1,"rain":17.8
+},{"temp": 29.3,"rain":57.3
+},{"temp": 28.2,"rain":162.0
+},{"temp": 27.6,"rain":124.5
+},{"temp": 27.2,"rain":140.2
+},{"temp": 26.8,"rain":216.9
+},{"temp": 26.7,"rain":211.4
+},{"temp": 26.1,"rain":117.6
+},{"temp": 24.0,"rain":53.9
+},{"temp": 21.4,"rain":15.9}]
+},
+{"name":"Da Nang (mid Vietnam)","data":[
+  {"temp": 21.5,"rain":85
+},{"temp": 22.3,"rain":25
+},{"temp": 24.2,"rain":20
+},{"temp": 26.4,"rain":35
+},{"temp": 28.3,"rain":84
+},{"temp": 29.2,"rain":90
+},{"temp": 29.3,"rain":87
+},{"temp": 29.0,"rain":117
+},{"temp": 27.5,"rain":312
+},{"temp": 25.9,"rain":650
+},{"temp": 24.1,"rain":432
+},{"temp": 22.1,"rain":216}]
+},
+{"name":"Denpasar (Bali)","data":[
+  {"temp": 28.6,"rain":345
+},{"temp": 28.8,"rain":274
+},{"temp": 28.8,"rain":234
+},{"temp": 29.6,"rain":88
+},{"temp": 28.6,"rain":93
+},{"temp": 27.4,"rain":53
+},{"temp": 26.7,"rain":55
+},{"temp": 26.1,"rain":25
+},{"temp": 27.1,"rain":47
+},{"temp": 28.6,"rain":63
+},{"temp": 28.1,"rain":179
+},{"temp": 28.2,"rain":276}]
+},
+{"name":"Ko Lanta","note": "Season data from kohub.org", "data":[
+  {"temp": 27.6,"rain":14.9,"season":"Peak"
+},{"temp": 28.2,"rain":18.0,"season":"Peak"
+},{"temp": 28.8,"rain":60.3,"season":"Peak"
+},{"temp": 29.0,"rain":119.0,"season":"Mid"
+},{"temp": 28.7,"rain":244.8,"season":"Green/Low"
+},{"temp": 28.5,"rain":258.5,"season":"Green/Low"
+},{"temp": 28.2,"rain":296.3,"season":"Green/Low"
+},{"temp": 28.2,"rain":304.2,"season":"Green/Low"
+},{"temp": 27.6,"rain":330.3,"season":"Green/Low"
+},{"temp": 27.3,"rain":325.4,"season":"Mid"
+},{"temp": 27.1,"rain":147.1,"season":"High"
+},{"temp": 26.9,"rain":55.6,"season":"High"}]
+},
+{"name":"Jakarta","data":[
+  {"temp": 26.1,"rain":299.7
+},{"temp": 26.1,"rain":299.7
+},{"temp": 26.4,"rain":210.8
+},{"temp": 27.0,"rain":147.3
+},{"temp": 27.2,"rain":132.1
+},{"temp": 26.7,"rain":96.5
+},{"temp": 26.4,"rain":63.5
+},{"temp": 26.7,"rain":43.2
+},{"temp": 27.0,"rain":66.0
+},{"temp": 27.2,"rain":111.8
+},{"temp": 27.0,"rain":142.2
+},{"temp": 26.4,"rain":203.2}]
+},
+{"name":"Sydney","data":[
+  {"temp": 23.0,"rain":101.4
+},{"temp": 23.1,"rain":117.3
+},{"temp": 21.7,"rain":131.4
+},{"temp": 20.7,"rain":127.1
+},{"temp": 16.5,"rain":117.4
+},{"temp": 13.9,"rain":133.5
+},{"temp": 13.0,"rain":95.7
+},{"temp": 14.3,"rain":80.3
+},{"temp": 16.6,"rain":67.8
+},{"temp": 18.6,"rain":77.0
+},{"temp": 20.0,"rain":84.8
+},{"temp": 21.9,"rain":77.6}]
+},
+{"name":"Hobart","data":[
+  {"temp": 17.4,"rain":44.4
+},{"temp": 17.4,"rain":36.3
+},{"temp": 15.9,"rain":39.3
+},{"temp": 13.6,"rain":43.4
+},{"temp": 11.4,"rain":36.0
+},{"temp": 8.9,"rain": 42.9
+},{"temp": 8.6,"rain": 47.3
+},{"temp": 9.7,"rain": 60.5
+},{"temp": 11.2,"rain":58.7
+},{"temp": 12.8,"rain":56.1
+},{"temp": 14.4,"rain":47.7
+},{"temp": 15.9,"rain":56.2}]
+},
+{"name":"Tokyo","data":[
+  {"temp": 5.2 ,"rain":52.3
+},{"temp": 5.7 ,"rain":56.1
+},{"temp": 8.7 ,"rain":117.5
+},{"temp": 13.9,"rain":124.5
+},{"temp": 18.2,"rain":137.8
+},{"temp": 21.4,"rain":167.7
+},{"temp": 25.0,"rain":153.5
+},{"temp": 26.4,"rain":168.2
+},{"temp": 22.8,"rain":209.9
+},{"temp": 17.5,"rain":197.8
+},{"temp": 12.1,"rain":92.5
+},{"temp": 7.6 ,"rain":51.0}]
+},
+{"name":"Bangkok","data":[
+  {"temp": 27.0,"rain":13.3
+},{"temp": 28.3,"rain":20.0
+},{"temp": 29.5,"rain":42.1
+},{"temp": 30.5,"rain":91.4
+},{"temp": 29.9,"rain":247.7
+},{"temp": 29.5,"rain":157.1
+},{"temp": 29.0,"rain":175.1
+},{"temp": 28.8,"rain":219.3
+},{"temp": 28.3,"rain":334.3
+},{"temp": 28.1,"rain":292.1
+},{"temp": 27.8,"rain":49.5
+},{"temp": 26.5,"rain":6.3}]
+},
+{"name":"Hanoi","data":[
+  {"temp": 16.4,"rain":18
+},{"temp": 17.2,"rain":19
+},{"temp": 20.0,"rain":34
+},{"temp": 23.9,"rain":105
+},{"temp": 27.4,"rain":165
+},{"temp": 28.9,"rain":266
+},{"temp": 29.2,"rain":253
+},{"temp": 28.6,"rain":274
+},{"temp": 27.5,"rain":243
+},{"temp": 24.9,"rain":156
+},{"temp": 21.5,"rain":59
+},{"temp": 18.2,"rain":20}]
+},
+{"name":"Luang Prabang","data":[
+  {"temp": 19.1,"rain":15.2
+},{"temp": 21.6,"rain":18.6
+},{"temp": 24.4,"rain":29.8
+},{"temp": 26.9,"rain":107.9
+},{"temp": 27.7,"rain":147.2
+},{"temp": 27.6,"rain":258.2
+},{"temp": 27.0,"rain":228.4
+},{"temp": 26.7,"rain":288.6
+},{"temp": 26.4,"rain":172.6
+},{"temp": 24.8,"rain":126.2
+},{"temp": 21.9,"rain":40.1
+},{"temp": 18.6,"rain":10.1}]
+},
+{"name":"Akita","data":[
+  {"temp": 0.1 ,"rain":119.2
+},{"temp": 0.5 ,"rain":89.1
+},{"temp": 3.6 ,"rain":96.5
+},{"temp": 9.6 ,"rain":112.8
+},{"temp": 14.6,"rain":122.8
+},{"temp": 19.2,"rain":117.7
+},{"temp": 22.9,"rain":188.2
+},{"temp": 24.9,"rain":176.9
+},{"temp": 20.4,"rain":160.3
+},{"temp": 14.0,"rain":157.2
+},{"temp": 7.9 ,"rain":185.8
+},{"temp": 2.9 ,"rain":160.1 }]
+}
+]
+
